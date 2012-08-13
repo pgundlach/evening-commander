@@ -1,0 +1,16 @@
+2006-02-27  Patrick Gundlach  <pg@levana.de>
+
+	* ec.el: directory now in a separate line-header.
+
+2006-02-22  Patrick Gundlach  <pg@levana.de>
+
+	* ec.el: fixed bug: copy directory into another directory: the
+	default read-string is now the non-existent subdir.
+
+	When creating a directory, the cursor will now be shown at the new
+	position. 
+2001-05-08  Patrick Gundlach  <patrick@gundla.ch>
+
+	* ec.el: initial release (0.96b2)
+	
+
